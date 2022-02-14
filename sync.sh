@@ -5,5 +5,4 @@ cd ..
 echo "Succesfully Copied latest config!"
 
 sudo bash /home/kali/start_vpn.sh
-git add -A
-
+echo "Starting VPN..."
